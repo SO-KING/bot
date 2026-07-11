@@ -1,0 +1,6 @@
+python-telegram-bot[ext]==22.*
+hopx-ai==0.3.*
+httpx==0.27.*
+websockets>=13,<14
+cryptography>=42,<50
+python-dotenv>=1,<2
